@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Slonie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Slonie_jar</output-path>
+    <root id="archive" name="Slonie.jar">
+      <element id="module-output" name="Slonie" />
+    </root>
+  </artifact>
+</component>
